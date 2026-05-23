@@ -16,5 +16,3 @@ I combine executive vision with hands-on technical execution, and I remain deepl
 - Artificial Intelligence / Machine Learning
 - Graph analytics & link analysis
 - Platform engineering & automation
-
-This GitHub reflects both professional engineering work and ongoing experimentation with new technologies.
