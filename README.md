@@ -1,12 +1,20 @@
-👋 Hello there! I'm a telecom security consultant with 15+ years of experience in GSM, GPRS, LTE, VAS DPI, network fraud, and cybersecurity. I currently work as the Director of Solutions Architecture at Latro Services. 🏢
+# Hi, I'm Elmehdi
 
-My expertise lies in developing innovative solutions to secure telecom networks and prevent fraud. 🔒 My passion for technology and its impact on society drives me to stay up-to-date with the latest trends and advancements in the field. 💡
+Technology leader, architect, and builder with 19+ years of experience across cybersecurity, telecommunications, fraud management, data analytics, and AI.
 
-When I'm not busy solving complex telecom security challenges, you can find me tinkering with new gadgets, exploring the outdoors, or sharing my knowledge with others in the industry. 🌄📱💻
+I currently serve as **Founder & CEO of PRISALYA**, where we help organizations strengthen cybersecurity, digital trust, and secure transformation initiatives.
 
-Feel free to explore my Github repositories to learn more about my work and projects. 🤝
+My professional background also includes solution architecture and R&D leadership in telecom technology, with a focus on fraud management, revenue assurance, analytics platforms, and intelligent automation.
 
-<!---
-mhdtbc/mhdtbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I combine executive vision with hands-on technical execution, and I remain deeply involved in architecture design, product innovation, prototyping, and engineering.
+
+### Focus Areas
+- Cybersecurity
+- Telecom & mobile ecosystem technologies
+- Fraud management / Revenue assurance
+- Data platforms & analytics
+- Artificial Intelligence / Machine Learning
+- Graph analytics & link analysis
+- Platform engineering & automation
+
+This GitHub reflects both professional engineering work and ongoing experimentation with new technologies.
